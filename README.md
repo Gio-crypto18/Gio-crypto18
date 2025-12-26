@@ -1,16 +1,20 @@
-## Hi there 👋
+Hola 👋
+Soy Giovanni Palomino: programadora, tutora, estudiante, investigadora y recolectora de experiencias.
 
-<!--
-**Gio-crypto18/Gio-crypto18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+En resumen, puedo convertir café en código ☕.
 
-Here are some ideas to get you started:
+Lenguajes de Programación
+Java JavaScript TypeScript C++ Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologías y Frameworks
+Backend
+Spring NodeJS Flask
+
+Frontend
+Angular React Angular.js Vue.js
+
+Herramientas
+Git Swagger Jira Heroku Netlify
+
+Redes Sociales
+LinkedIn YouTube Instagram
