@@ -56,11 +56,11 @@
 <h2>🌐 Contacto</h2>
 
 <p>
-  <a href="https://github.com/TU_USUARIO">
+  <a href="https://github.com/TU_USUARIO](https://github.com/Gio-crypto18)">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
+<a href="https://www.linkedin.com/in/giovanni-alexander-palomino-mathey-924a81309" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 </p>
 
